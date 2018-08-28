@@ -1,1 +1,3 @@
-# injector-tester
+# Injector tester
+
+## License
