@@ -1,6 +1,10 @@
 # Injector tester
 
+DLL library dedicated to test injectors
+
+
 ## License
+
 ```
 MIT License
 
